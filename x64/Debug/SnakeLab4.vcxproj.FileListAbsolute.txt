@@ -1,0 +1,2 @@
+C:\Users\ronal\OneDrive\Documents\C++ projects\SnakeLab4\x64\Debug\SnakeLab4.exe
+C:\Users\ronal\OneDrive\Documents\C++ projects\SnakeLab4\x64\Debug\SnakeLab4.pdb

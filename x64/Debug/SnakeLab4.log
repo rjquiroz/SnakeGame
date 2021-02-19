@@ -1,0 +1,14 @@
+﻿  block.cpp
+C:\Users\ronal\OneDrive\Documents\C++ projects\SnakeLab4\block.cpp(35,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ronal\OneDrive\Documents\C++ projects\SnakeLab4\block.cpp(36,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\ronal\OneDrive\Documents\C++ projects\SnakeLab4\block.cpp(86,17): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\ronal\OneDrive\Documents\C++ projects\SnakeLab4\block.cpp(86,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\ronal\OneDrive\Documents\C++ projects\SnakeLab4\block.cpp(86,24): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\ronal\OneDrive\Documents\C++ projects\SnakeLab4\block.cpp(86,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  snake.cpp
+  SnakeGame.cpp
+C:\Users\ronal\OneDrive\Documents\C++ projects\SnakeLab4\SnakeGame.cpp(39,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ronal\OneDrive\Documents\C++ projects\SnakeLab4\SnakeGame.cpp(291,13): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\ronal\OneDrive\Documents\C++ projects\SnakeLab4\SnakeGame.cpp(292,13): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  SnakeLab4.vcxproj -> C:\Users\ronal\OneDrive\Documents\C++ projects\SnakeLab4\x64\Debug\SnakeLab4.exe
